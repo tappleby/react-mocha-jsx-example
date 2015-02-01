@@ -1,4 +1,4 @@
-# Example testing React w/ mocha, jsx and chai
+# Example testing React w/ mocha, jsx and jsdom
 
 This example is based off how the test are setup in [Khan/react-components](https://github.com/Khan/react-components/tree/11eef3b87c4dc037856f3a02778724094a456c58). 
 
