@@ -1,7 +1,7 @@
 {
-  "name": "react-mocha-jsx-example",
-  "version": "1.0.0",
-  "description": "Testing example using reactjs + jsx + mocha",
+	"name": "react-mocha-jsx-example",
+	"version": "1.0.0",
+	"description": "Testing example using reactjs + jsx + mocha",
 	"private": true,
 	"dependencies": {
 		"react": "~0.13"
@@ -12,9 +12,9 @@
 		"mocha": "^2.1.0",
 		"react-tools": "~0.12.2"
 	},
-  "scripts": {
+	"scripts": {
 		"test": "mocha --reporter spec --compilers jsx:test/compiler.js,js:test/compiler.js test/setup-jsdom.js test/**/*test*"
-  },
-  "author": "Terry Appleby",
-  "license": "MIT"
+	},
+	"author": "Terry Appleby",
+	"license": "MIT"
 }
